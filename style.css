@@ -67,6 +67,15 @@ label {
     width: 783px;
 }
 
+.titulo {
+    cursor: pointer;
+}
+
+.titulo.active {
+    background-color: #ff9900;
+    color: #fff;
+}
+
 #titulo2 {
     border: 1px solid;
     margin: 1px;
